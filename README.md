@@ -1,2 +1,2 @@
 # Customer_Info_Management_SpringMVC
-Managing Customer Details (CRUD) with Database using Spring_MVC
+This project is a Customer Information Management System that allows you to perform CRUD (Create, Read, Update, Delete) operations on customer data using the Spring MVC architecture and a MySQL database.
